@@ -1,4 +1,5 @@
 pyrfork
+pyromod
 humanize
 pymongo
 Pillow
